@@ -23,3 +23,17 @@ def double_all(numbers):
 
 
 double_all(5)
+
+# Reolution by W3School
+# def double_all(numbers):
+#     result = []
+#     for x in numbers:
+#         result.append(x * 2)
+#     return result
+
+# n = int(input())
+# numbers = []
+# for i in range(n):
+#     numbers.append(int(input()))
+# result = double_all(numbers)
+# print(' '.join(str(x) for x in result))
