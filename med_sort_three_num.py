@@ -16,3 +16,15 @@ lst = [a, b, c]
 lst.sort()
 
 print(*lst, sep=" ")
+
+# Read a list of numbers and print them sorted.
+# # Read input
+# n = int(input())
+# numbers = []
+# for i in range(n):
+#     numbers.append(int(input()))
+
+# # Sort and print
+# numbers.sort()
+
+# print(*numbers, sep=" ")
